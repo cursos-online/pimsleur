@@ -46,7 +46,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Curso Inglés Pimsleur COMPLETO",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -190,6 +190,14 @@
           "_anchor": "services6-6"
         }
       ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Page 1",
+        "order": 1
+      },
+      "components": []
     }
   }
 }
